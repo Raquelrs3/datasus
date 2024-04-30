@@ -76,7 +76,7 @@ No notebook, realizei uma análise descritiva detalhada, calculando medidas cent
 
 - Estatistica descritiva dos dados numéricos:
   
-  |index|min|max|range|mean|median|std|skew|kurtosis|
+|index|min|max|range|mean|median|std|skew|kurtosis|
 |---|---|---|---|---|---|---|---|---|
 |qa\_ações\_de\_promoção\_e\_prevenção\_em\_saúde|0\.0|772\.0|772\.0|0\.2781181558592775|0\.0|9\.641832767200151|48\.71511225791572|2645\.7807294862932|
 |qa\_procedimentos\_com\_finalidade\_diagnóstica|0\.0|22041351\.0|22041351\.0|11236\.367198026115|180\.0|313411\.03457659384|55\.05718026995659|3126\.4256951910284|
@@ -100,10 +100,10 @@ No notebook, realizei uma análise descritiva detalhada, calculando medidas cent
 |va\_dia\_mês|1\.0|12\.0|11\.0|6\.490019628064806|NaN|3\.4461576272099355|0\.002515792310230712|-1\.2135421391980987|
 
  - Distribuição dos dados numéricos:
-   (https://github.com/Raquelrs3/datasus/assets/98356094/1b864707-975f-46e5-af49-2ca946b9ce1f)
+   ![dados numericos](https://github.com/Raquelrs3/datasus/assets/98356094/1b864707-975f-46e5-af49-2ca946b9ce1f)
 
 - distribuição dos dados categóricos:
-  (https://github.com/Raquelrs3/datasus/assets/98356094/85ca9160-33e1-4ffb-bea4-5fd5f18485c1)
+  ![dados categoricos](https://github.com/Raquelrs3/datasus/assets/98356094/85ca9160-33e1-4ffb-bea4-5fd5f18485c1)
 
 
 ## 5. Metodologia de Desenvolvimento do Projeto
