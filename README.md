@@ -21,9 +21,9 @@ Diante desse obstáculo, optei por usar o Beautiful Soup para extrair o conteúd
 
 ## 2. Criação as bases de dados - Qualidade aprovada e Valor aprovado
 #### Dataframe
-Ao preparar os bancos de dados de Qualidade de Aprovada e Valor de Aprovado, adotei uma estratégia de incorporar os dados diretamente em um quadro de dados. Devido à natureza única dos dados, optei por processá-los primeiro individualmente e depois juntá-los horizontalmente.
+Ao preparar os bancos de dados de Qualidade de Aprovada e Valor de Aprovado, adotei uma estratégia de incorporar os dados diretamente em um dataframe. Devido à natureza única dos dados, optei por processá-los primeiro individualmente e depois juntá-los horizontalmente.
 
-Depois de preparar cada conjunto de dados individualmente, passei para a etapa de concatenação horizontal. Esta abordagem permitiu-me combinar os dados de qualidade e valor num único quadro de dados, preservando a distinção entre os dois tipos de informação. 
+Depois de preparar cada conjunto de dados individualmente, passei para a etapa de concatenação horizontal. Esta abordagem permitiu-me combinar os dados de qualidade e valor em um único dataframe, preservando a distinção entre os dois tipos de informação. 
 
 
 ## 3. Definição das variáveis - Dicionário de Dados
@@ -76,7 +76,7 @@ No notebook, realizei uma análise descritiva detalhada, calculando medidas cent
 
  
 ## 5. Metodologia de Desenvolvimento do Projeto
- O projeto está sendi desenvolvido através da técnica CRISP-DM
+ O projeto está sendo desenvolvido através da técnica CRISP-DM
  * Versão END-TO_END da solução,
  * Velocidade na entrega de valor,
  * Mapeamento de todos os possíveis problems.
