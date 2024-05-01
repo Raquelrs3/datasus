@@ -31,35 +31,35 @@ Depois de preparar cada conjunto de dados individualmente, passei para a etapa d
 
 | VARIÁVEL | DEFINIÇÃO | 
 | -------------------  | ------------------- |
-|qa_município | O município referente aos dados de qualidade aprovada de saúde.|
-|qa_ações_de_promoção_e_prevenção_em_saúde | A quantidade de ações de promoção e prevenção em saúde realizadas.|
-|qa_procedimentos_com_finalidade_diagnóstica	| A quantidade de procedimentos com finalidade diagnóstica realizados.|
-|qa_procedimentos_clínicos | A quantidade de procedimentos clínicos realizados.|
-|qa_procedimentos_cirúrgicos	| A quantidade de procedimentos cirúrgicos realizados.|
-|qa_transplantes_de_orgãos_tecidos_e_células	| A quantidade de transplantes de órgãos, tecidos e células realizados.
-|qa_medicamentos	| A quantidade de medicamentos administrados ou distribuídos.|
-|qa_órteses_próteses_e_materiais_especiais | A quantidade de órteses, próteses e materiais especiais utilizados ou fornecidos.|
-|qa_ações_complementares_da_atenção_à_saúde	| A quantidade de ações complementares da atenção à saúde realizadas.|
-|qa_total | O total de ocorrências relacionadas à qualidade aprovada de saúde.|
-|qa_período	| O período de tempo ao qual os dados se referem.|
-|qa_mês	| O mês ao qual os dados se referem.|
-|qa_ano	| O ano ao qual os dados se referem.|
-|qa_dia_mês	| O dia do mês ao qual os dados se referem.|
-|va_município	| O município referente aos dados de valor aprovado de saúde.|
-|va_procedimentos_com_finalidade_diagnóstica	| A quantidade de procedimentos com finalidade diagnóstica realizados.|
-|va_procedimentos_clínicos| A quantidade de procedimentos clínicos realizados.|
-|va_procedimentos_cirúrgicos	| A quantidade de procedimentos cirúrgicos realizados.|
-|va_transplantes_de_orgãos_tecidos_e_células	| A quantidade de transplantes de órgãos, tecidos e células realizados.|
-|va_medicamentos	A quantidade de medicamentos administrados ou distribuídos.|
-|va_órteses_próteses_e_materiais_especiais | A quantidade de órteses, próteses e materiais especiais utilizados ou fornecidos.|
-|va_ações_complementares_da_atenção_à_saúde | A quantidade de ações complementares da atenção à saúde realizadas.|
-|va_total | O total de ocorrências relacionadas ao valor aprovado de saúde.|
-|va_período	| O período de tempo ao qual os dados se referem.|
-|va_mês	| O mês ao qual os dados se referem.|
-|va_ano	| O ano ao qual os dados se referem.|
-|va_dia_mês	| O dia do mês ao qual os dados se referem.|
-|qa_código_município | O código do município referente aos dados de qualidade aprovada de saúde.|
-|va_código_município | O código do município referente aos dados de valor aprovado de saúde.|
+|quantidade_município | O município referente aos dados de qualidade aprovada de saúde.|
+|quantidade_ações_de_promoção_e_prevenção_em_saúde | A quantidade de ações de promoção e prevenção em saúde realizadas.|
+|quantidade_procedimentos_com_finalidade_diagnóstica	| A quantidade de procedimentos com finalidade diagnóstica realizados.|
+|quantidade_procedimentos_clínicos | A quantidade de procedimentos clínicos realizados.|
+|quantidade_procedimentos_cirúrgicos	| A quantidade de procedimentos cirúrgicos realizados.|
+|quantidade_transplantes_de_orgãos_tecidos_e_células	| A quantidade de transplantes de órgãos, tecidos e células realizados.
+|quantidade_medicamentos	| A quantidade de medicamentos administrados ou distribuídos.|
+|quantidade_órteses_próteses_e_materiais_especiais | A quantidade de órteses, próteses e materiais especiais utilizados ou fornecidos.|
+|quantidade_ações_complementares_da_atenção_à_saúde	| A quantidade de ações complementares da atenção à saúde realizadas.|
+|quantidade_total | O total de ocorrências relacionadas à qualidade aprovada de saúde.|
+|quantidade_período	| O período de tempo ao qual os dados se referem.|
+|quantidade_mês	| O mês ao qual os dados se referem.|
+|quantidade_ano	| O ano ao qual os dados se referem.|
+|quantidade_dia_mês	| O dia do mês ao qual os dados se referem.|
+|valor_município	| O município referente aos dados de valor aprovado de saúde.|
+|valor_procedimentos_com_finalidade_diagnóstica	| A quantidade de procedimentos com finalidade diagnóstica realizados.|
+|valor_procedimentos_clínicos| A quantidade de procedimentos clínicos realizados.|
+|valor_procedimentos_cirúrgicos	| A quantidade de procedimentos cirúrgicos realizados.|
+|valor_transplantes_de_orgãos_tecidos_e_células	| A quantidade de transplantes de órgãos, tecidos e células realizados.|
+|valor_medicamentos	A quantidade de medicamentos administrados ou distribuídos.|
+|valor_órteses_próteses_e_materiais_especiais | A quantidade de órteses, próteses e materiais especiais utilizados ou fornecidos.|
+|valor_ações_complementares_da_atenção_à_saúde | A quantidade de ações complementares da atenção à saúde realizadas.|
+|valor_total | O total de ocorrências relacionadas ao valor aprovado de saúde.|
+|valor_período	| O período de tempo ao qual os dados se referem.|
+|valor_mês	| O mês ao qual os dados se referem.|
+|valor_ano	| O ano ao qual os dados se referem.|
+|valor_dia_mês	| O dia do mês ao qual os dados se referem.|
+|quantidade_código_município | O código do município referente aos dados de qualidade aprovada de saúde.|
+|valor_código_município | O código do município referente aos dados de valor aprovado de saúde.|
 |CODIGO_MUNICIPIO | O código do município.|
 |LONGITUDE | A longitude geográfica do município.|
 |LATITUDE | A latitude geográfica do município.|
