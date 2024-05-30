@@ -19,9 +19,9 @@ Porém, ao chegar às etapas finais do processo de coleta, enfrentei alguns outr
 Diante desse obstáculo, optei por usar o Beautiful Soup para extrair o conteúdo HTML diretamente da página final de download. O que me permitiu identificar e selecionar apenas classes específicas que contenham os dados necessários. Coonseguindo assim superar inconsistências nos arquivos baixados pelo botão de download e realizar a extração dos dados de forma mais limpa e eficiente.
 
 
-## 2. Criação as bases de dados - Qualidade aprovada e Valor aprovado
+## 2. Criação as bases de dados - Quantidade aprovada e Valor aprovado
 #### Dataframe
-Ao preparar os bancos de dados de Qualidade de Aprovada e Valor de Aprovado, adotei uma estratégia de incorporar os dados diretamente em um dataframe. Devido à natureza única dos dados, optei por processá-los primeiro individualmente e depois juntá-los horizontalmente.
+Ao preparar os bancos de dados de Quantidade de Aprovada e Valor de Aprovado, adotei uma estratégia de incorporar os dados diretamente em um dataframe. Devido à natureza única dos dados, optei por processá-los primeiro individualmente e depois juntá-los horizontalmente.
 
 Depois de preparar cada conjunto de dados individualmente, passei para a etapa de concatenação horizontal. Esta abordagem permitiu-me combinar os dados de qualidade e valor em um único dataframe, preservando a distinção entre os dois tipos de informação. 
 
@@ -118,7 +118,7 @@ No notebook, realizei uma análise descritiva detalhada, calculando medidas cent
 ##### Passo 01 - Descrição dos dados: Conhecimento dos dados, tipos, métricas estatísticas para identificar outliers, analise das métricas estatísticas e ajustes em features do dataset (preenchimento de NA's).
 
 
-##### Passo 02 - Feature Engineering: Desenvolvimento de mapa mental para analisar o fenômeno, as variáveis e os principais aspectos que impactam cada uma delas. (passos a ser desenvolvido)
+##### Passo 02 - Feature Engineering: Desenvolvimento de mapa mental para analisar o fenômeno, variáveis e os principais aspectos que impactam cada uma delas. (passos a ser desenvolvido)
 
 
 ##### Passo 03 - Filtragem dos dados: Filtragem das linhas e excluir as colunas que não são relevantes para o modelo ou não fazem parte do escopo do negócio. (passos a ser desenvolvido)
